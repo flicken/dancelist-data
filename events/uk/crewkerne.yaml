@@ -194,6 +194,7 @@ events:
     social: true
     price: £4
     organisation: Bal Crewkerne
+    cancelled: true
   - name: Bal Crewkerne
     details: French + Breton dance and live music
     links:
@@ -208,6 +209,7 @@ events:
     social: true
     price: £4
     organisation: Bal Crewkerne
+    cancelled: true
   - name: Bal Crewkerne
     details: French + Breton dance and live music
     links:

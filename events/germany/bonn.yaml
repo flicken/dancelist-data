@@ -271,6 +271,22 @@ events:
     social: false
     price: donation
     organisation: Balfolk Bonn e.V.
+  - name: Balfolk im Alten Casino
+    details: Balfolk
+    links:
+      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
+    start: "2024-01-27T15:00:00+01:00"
+    end: "2024-01-27T22:00:00+01:00"
+    country: Germany
+    city: Euskirchen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bargainatt
+    price: donation
+    organisation: Balfolk Bonn e.V.
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -661,7 +677,7 @@ events:
     social: true
     bands:
       - Kördeböf
-    price: €17-20
+    price: €17-€20
     organisation: Balfolk Bonn e.V.
   - name: Balfolk Bonn
     links:
@@ -676,5 +692,142 @@ events:
     social: true
     bands:
       - Airboxes
-    price: €15-20
+    price: €15-€20
+    organisation: Balfolk Bonn e.V.
+  - name: Balfolk workshop
+    details: "Advanced mazurka with Uwe: Feeling, moving, elements of contact improvisation."
+    links:
+      - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
+    start: "2025-06-12T19:00:00+02:00"
+    end: "2025-06-12T22:00:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €8-€10
+    organisation: Balfolk Bonn e.V.
+  - name: Balfolk Bonn
+    links:
+      - "https://balfolk-bonn.de/balfolk/Aktuell.html"
+    start: "2025-06-14T18:00:00+02:00"
+    end: "2025-06-14T21:30:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Folk My Life!
+    price: €18-€20
+    organisation: Balfolk Bonn e.V.
+  - name: Balfolk workshop
+    links:
+      - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
+    start: "2025-06-26T19:00:00+02:00"
+    end: "2025-06-26T22:00:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €8-€10
+    organisation: Balfolk Bonn e.V.
+  - name: Balfolk Bonn
+    links:
+      - "http://balfolk-bonn.de/balfolk/Tanzaktivitaten.html"
+    start: "2025-07-04T18:00:00+02:00"
+    end: "2025-07-04T22:00:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Manäcken
+    price: €15-€20
+    organisation: Balfolk Bonn e.V.
+  - name: Bunter Balfolk
+    links:
+      - "http://balfolk-bonn.de/balfolk/Tanzaktivitaten.html"
+    start: "2025-07-13T18:00:00+02:00"
+    end: "2025-07-13T22:00:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Local Heroes
+    price: €15-€20
+    organisation: Balfolk Bonn e.V.
+  - name: Balfolk Bonn
+    links:
+      - "http://balfolk-bonn.de/balfolk/Tanzaktivitaten.html"
+    start: "2025-09-05T18:00:00+02:00"
+    end: "2025-09-05T22:00:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - RÜ
+    price: €15-€20
+    organisation: Balfolk Bonn e.V.
+  - name: Annabergfest
+    links:
+      - "http://balfolk-bonn.de/balfolk/Tanzaktivitaten.html"
+    start_date: 2025-10-02
+    end_date: 2025-10-05
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bouton
+      - Noiranomis
+      - DiaTon
+      - Emily & The Simons
+      - Havok
+      - NoLa
+      - Out of the Box
+    organisation: Balfolk Bonn e.V.
+  - name: Balfolk Bonn
+    links:
+      - "http://balfolk-bonn.de/balfolk/Tanzaktivitaten.html"
+    start: "2025-10-25T18:00:00+02:00"
+    end: "2025-10-25T22:00:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Nello
+    price: €15-€20
+    organisation: Balfolk Bonn e.V.
+  - name: Balfolk Bonn
+    links:
+      - "http://balfolk-bonn.de/balfolk/Tanzaktivitaten.html"
+    start: "2025-11-08T18:00:00+01:00"
+    end: "2025-11-08T22:00:00+01:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - AOK!
+    price: €15-€20
     organisation: Balfolk Bonn e.V.

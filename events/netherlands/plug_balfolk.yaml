@@ -76,6 +76,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - De Speelgroep
     price: free
     organisation: Dancing Bodies
   - name: Balfolk weekend Intensive 2025

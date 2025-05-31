@@ -1262,7 +1262,7 @@ events:
       - The Gaslight Tinkers
     callers:
       - George Marshall
-    organisation: TryContra
+    organisation: Falcon Ridge Folk Festival
   - name: Good Life Gallop
     links:
       - "https://www.thegoodlifegallop.org/"
@@ -2388,25 +2388,6 @@ events:
       - Warren Doyle
     price: $170-$260
     organisation: TryContra
-  - name: Butterfly Whirl
-    links:
-      - "http://www.dancerhapsody.com/special-events/"
-    start_date: 2025-05-23
-    end_date: 2025-05-25
-    country: USA
-    state: GA
-    city: Decatur
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Stomp Rocket
-      - Thunderwing
-    callers:
-      - Jacqui Grennan
-      - Seth Tepfer
-    organisation: TryContra
   - name: Camp Sturtevant
     links:
       - "https://www.sccdc.org/special-events/camp-sturtevant/"
@@ -2464,6 +2445,23 @@ events:
       - Steve Zakon-Anderson
       - Adina Gordon
     organisation: TryContra
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2025-06-06
+    end_date: 2025-06-07
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Potent Brew
+    callers:
+      - Seth Tepfer
+    organisation: Dancing Fish
   - name: Gender-Free Dance Camp
     links:
       - "https://www.lcfd.org/spring-camp-2025.html"
@@ -2483,26 +2481,6 @@ events:
       - Mary Wesley
       - Chris Ricciotti
     price: $150-$400
-    organisation: TryContra
-  - name: "Dance, Music & Spice"
-    links:
-      - "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/"
-    start: "2025-06-14T16:00:00-04:00"
-    end: "2025-06-21T12:00:00-04:00"
-    country: USA
-    state: MI
-    city: Lexington
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    bands:
-      - Countercurrent
-    callers:
-      - Lindsey Dono
-      - Susan Kevra
-    price: $850-$1500
     organisation: TryContra
   - name: Taste of Haven
     links:
@@ -2708,26 +2686,6 @@ events:
       - Lisa Greenleaf
     price: $850-$1500
     organisation: TryContra
-  - name: Harmony of Song & Dance
-    links:
-      - "https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/"
-    start_date: 2025-07-26
-    end_date: 2025-08-02
-    country: USA
-    state: MA
-    city: Plymouth
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    bands:
-      - Countercurrent
-    callers:
-      - Gaye Fifer
-      - Adina Gordon
-    price: $850-$1500
-    organisation: TryContra
   - name: Sugar Hill Dance Weekend
     links:
       - "http://bloomingtoncontra.org/sugar-hill/"
@@ -2741,22 +2699,6 @@ events:
     workshop: true
     social: true
     organisation: TryContra
-  - name: Family Week
-    links:
-      - "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/"
-    start_date: 2025-08-11
-    end_date: 2025-08-17
-    country: USA
-    state: ME
-    city: Poland
-    styles:
-      - balfolk
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    price: $850-$1500
-    organisation: TryContra
   - name: Cascade of Music & Dance
     links:
       - "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/"
@@ -2765,21 +2707,6 @@ events:
     country: USA
     state: MD
     city: Cascade
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    price: $750-$1400
-    organisation: TryContra
-  - name: Campers' Week
-    links:
-      - "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/"
-    start: "2025-08-16T15:00:00-04:00"
-    end: "2025-08-23T10:00:00-04:00"
-    country: USA
-    state: MA
-    city: Plymouth
     styles:
       - contra
       - ecd
@@ -2847,6 +2774,8 @@ events:
     social: true
     bands:
       - Howe And Company
+    callers:
+      - Kenny Greer
     price: $15-$30
     organisation: Dancing Fish
   - name: Rocky Mountain Rendezvous
@@ -2958,26 +2887,6 @@ events:
     workshop: true
     social: true
     organisation: TryContra
-  - name: Chehalis Dance Weekend
-    links:
-      - "https://chehalisdancecamp.com/"
-    start_date: 2025-09-19
-    end_date: 2025-09-21
-    country: Canada
-    state: BC
-    city: Vancouver
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Joyride
-      - The Free Raisins
-    callers:
-      - Jeremy Korr
-      - Koren Wake
-    price: $300-$450
-    organisation: TryContra
   - name: Cascade Contras
     links:
       - "https://eugenefolklore.org/cascade-contras-on-the-river/"
@@ -2996,6 +2905,27 @@ events:
     callers:
       - Isaac Banner
       - Adina Gordon
+    organisation: TryContra
+  - name: ContraStock
+    links:
+      - "https://fsgw.org/contrastock"
+    start: "2025-09-07T13:00:00-04:00"
+    end: "2025-09-07T22:00:00-04:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Good Company
+      - The Gigmeisters
+      - Alex Cumming & Audrey Jaber
+    callers:
+      - Alex Deis-Lauby
+      - Will Mentor
+      - Rick Mohr
     organisation: TryContra
   - name: Moondance Dance Weekend
     links:
@@ -3034,19 +2964,6 @@ events:
       - Alex Deis-Lauby
     price: $15-$30
     organisation: Dancing Fish
-  - name: ContraStock
-    links:
-      - "https://fsgw.org/contrastock"
-    start: "2025-09-07T13:00:00-04:00"
-    end: "2025-09-07T22:00:00-04:00"
-    country: USA
-    state: MD
-    city: Glen Echo
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: TryContra
   - name: Wasatch Wiggle
     links:
       - "https://wasatchcontras.org/ww/"
@@ -3061,6 +2978,8 @@ events:
     social: true
     bands:
       - Countercurrent
+    callers:
+      - Alex Deis-Lauby
     organisation: TryContra
   - name: Lady of the Lake Fall Camp
     links:
@@ -3133,23 +3052,6 @@ events:
       - Darlene Underwood
     price: $65-$165
     organisation: TryContra
-  - name: Fire Ant Frolic
-    links:
-      - "http://www.fireantfrolic.org/"
-    start_date: 2025-11-14
-    end_date: 2025-11-16
-    country: USA
-    state: TX
-    city: Austin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Northwoods
-    callers:
-      - Steve Zakon-Anderson
-    organisation: TryContra
   - name: Contra NYC
     links:
       - "https://www.contradance.nyc/"
@@ -3201,6 +3103,23 @@ events:
       - Carol Sersland
     price: $235
     organisation: TryContra
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2025-10-31
+    end_date: 2025-11-01
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Playing with Fyre
+    callers:
+      - Terry Doyle
+    organisation: Dancing Fish
   - name: Foggy Moon Dance Weekend
     links:
       - "http://montereycontradance.org/foggy-moon.html"
@@ -3239,6 +3158,25 @@ events:
       - Mary Wesley
       - Will Mentor
     organisation: Ottawa Contra Dance
+  - name: Atlanta Dance Weekend
+    links:
+      - "https://adw.contradance.org/"
+    start_date: 2025-11-07
+    end_date: 2025-11-09
+    country: USA
+    state: GA
+    city: Atlanta
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - River Road
+      - The Dam Beavers
+    callers:
+      - Alex Deis-Lauby
+      - Cis Hinkle
+    organisation: ContraATL
   - name: ContraCopia
     links:
       - "http://www.thursdaycontra.com/contracopia/"
@@ -3287,8 +3225,10 @@ events:
     social: true
     bands:
       - Thunderwing
+      - Frenzy
     callers:
       - Dereck Kalish
+      - Janine Smith
     price: $15-$30
     organisation: Dancing Fish
   - name: Contradancers Delight Holiday
@@ -3423,6 +3363,25 @@ events:
       - Wendy Graham
       - Will Mentor
     organisation: TryContra
+  - name: Palmetto Bug Stomp
+    links:
+      - "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html"
+    start_date: 2026-02-27
+    end_date: 2026-03-01
+    country: USA
+    state: SC
+    city: Charleston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Notorious
+      - Contraforce
+    callers:
+      - Seth Tepfer
+      - JJ Luxe
+    organisation: Charleston Folk
   - name: Epicenter
     links:
       - "https://nbcds.org/epicenter-2025/"

@@ -256,3 +256,61 @@ events:
     social: true
     price: $15
     organisation: Bal Folk Perth
+  - name: Grand Bal de Chidlow
+    links:
+      - "https://www.facebook.com/events/1030303599024141/"
+    start: "2025-04-26T17:30:00+08:00"
+    end: "2025-04-26T21:00:00+08:00"
+    country: Australia
+    state: WA
+    city: Chidlow
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $5
+    organisation: Bal Folk Perth
+  - name: Grand Bal de Chidlow
+    links:
+      - "https://www.facebook.com/events/1381234356635276/"
+    start: "2025-05-24T17:30:00+08:00"
+    end: "2025-05-24T21:30:00+08:00"
+    country: Australia
+    state: WA
+    city: Chidlow
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $5
+    organisation: Bal Folk Perth
+  - name: Bal Folk Dance Workshop
+    links:
+      - "https://www.facebook.com/events/453921381112091/"
+      - "https://events.humanitix.com/folk-dance-classes"
+    start: "2025-05-31T10:00:00+08:00"
+    end: "2025-05-31T14:30:00+08:00"
+    country: Australia
+    state: WA
+    city: Perth
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: $90-$120
+    organisation: Bal Folk Perth
+  - name: The Bridgerton* Ball
+    links:
+      - "https://www.facebook.com/events/1704520773478329/"
+      - "https://events.humanitix.com/the-bridgerton-ball"
+    start: "2025-06-07T18:30:00+08:00"
+    end: "2025-06-07T22:00:00+08:00"
+    country: Australia
+    state: WA
+    city: Perth
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $32.41-$48.07
+    organisation: Bal Folk Perth

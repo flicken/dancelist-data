@@ -4670,7 +4670,7 @@ events:
     workshop: true
     social: true
     bands:
-      - J’en Rafolk
+      - "J'en Rafolk"
     organisation: ~
   - name: Concert Kadril & Folkbal @ De Foyer
     details: Ball
@@ -7518,7 +7518,7 @@ events:
     workshop: false
     social: true
     bands:
-      - J’en Rafolk
+      - "J'en Rafolk"
     organisation: ~
   - name: Folkdansles Limburg (begonners)
     details: Course
@@ -15499,7 +15499,7 @@ events:
     social: true
     price: €5-€16
     bands:
-      - Folkensemble Van De Genkse Academie
+      - Folkensembles Academie Genk
       - Bamako Express
     organisation: ~
   - name: Open Air Folk Practica
@@ -15740,16 +15740,20 @@ events:
   - name: "Folk In 't Kasteel"
     details: Ball
     links:
+      - "https://www.schoten.be/academie/agenda/folkbal-3"
       - "https://folkbalbende.be/event/2301"
     start: "2025-06-07T19:00:00+02:00"
-    end: "2025-06-07T23:00:00+02:00"
+    end: "2025-06-07T22:45:00+02:00"
     country: Belgium
     city: Antwerp
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    organisation: ~
+    bands:
+      - Folkorkest Academie Schoten
+      - Griff Trio
+    organisation: Academie Schoten
   - name: Celtival
     links:
       - "https://www.archeosite.be/fr/celtival/"
@@ -15827,7 +15831,7 @@ events:
     social: true
     bands:
       - Duo Bucsan-Gielen
-      - Saraï
+      - Saraï
     price: €14-€16
     organisation: Muziekcentrum Dranouter
   - name: Dance Class Level 4
@@ -17214,7 +17218,7 @@ events:
       - Feather and Fox
       - Broes
     price: €20
-    organisation: ~
+    organisation: BalAFolk
   - name: Folkbal @ Toreke Café
     details: Ball
     links:
@@ -17961,20 +17965,9 @@ events:
   - name: Balhalla
     details: Ball
     links:
-      - "https://folkbalbende.be/event/2489"
-    start: "2025-05-18T19:00:00+02:00"
-    end: "2025-05-18T23:30:00+02:00"
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: Balhalla
-  - name: Balhalla
-    details: Ball
-    links:
+      - "https://www.balhalla.be/nl/evenement/bal-met-trio-baftig"
       - "https://folkbalbende.be/event/2490"
+      - "https://www.facebook.com/events/1095601771769374/"
     start: "2025-06-12T19:00:00+02:00"
     end: "2025-06-12T23:30:00+02:00"
     country: Belgium
@@ -17985,6 +17978,7 @@ events:
     social: true
     bands:
       - Trio Baftig
+    price: €10-€16
     organisation: Balhalla
   - name: Bal De Noël
     details: Ball
@@ -18128,6 +18122,9 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Feather and Fox
+      - Nisia Trio
     organisation: "Kasteel D'Ursel"
   - name: Winterdans Folkbal
     details: Ball
@@ -18141,6 +18138,9 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Accords Perdus
+      - Bamako Express
     organisation: ~
   - name: Bal @ La Tricoterie
     details: Ball
@@ -18264,7 +18264,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Manäcken
+      - Manäcken
       - Fublène
     organisation: "Rif Zans L'Fiesse"
   - name: Bal Folk RZF
@@ -18334,6 +18334,7 @@ events:
     links:
       - "https://stanistil.be/event/34"
       - "https://folkbalbende.be/event/2514"
+      - "https://www.facebook.com/events/510469358114684/"
     start: "2025-04-27T13:00:00+02:00"
     end: "2025-04-27T18:00:00+02:00"
     country: Belgium
@@ -18795,6 +18796,7 @@ events:
     bands:
       - Embrun
       - Warmoes
+      - Sons Of Sirius
     organisation: Gooikoorts Folkfestival
   - name: CaBal
     details: Ball
@@ -18924,11 +18926,10 @@ events:
   - name: "Boutersem Buitengewoon Klassiek"
     details: Ball
     links:
-      - "https://www.anoctetemporis.org/en/agenda"
       - "https://www.tickettailor.com/events/anoctetemporis/1308867"
       - "https://folkbalbende.be/event/2608"
     start: "2025-05-03T19:00:00+02:00"
-    end: "2025-05-03T23:30:00+02:00"
+    end: "2025-05-03T23:45:00+02:00"
     country: Belgium
     city: Boutersem
     styles:
@@ -18938,7 +18939,7 @@ events:
     bands:
       - Naragonia
       - Ciac Boum
-    organisation: ~
+    organisation: ComSiBal
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
@@ -19335,6 +19336,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
+    cancelled: true
   - name: "Bourrée In 2: Flow"
     details: Course
     links:
@@ -20333,11 +20335,10 @@ events:
   - name: Boombal Gentse Feesten
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/Ledriadimusic"
+      - "https://www.boombal.be/"
       - "https://folkbalbende.be/event/2715"
-    start_date: 2025-07-21
-    end_date: 2025-07-21
+    start: "2025-07-21T19:00:00+02:00"
+    end: "2025-07-22T00:30:00+02:00"
     country: Belgium
     city: Gent
     styles:
@@ -20346,7 +20347,9 @@ events:
     social: true
     bands:
       - Le Driadi
-    organisation: ~
+      - Le Mange Bal
+    price: free
+    organisation: Boombal
   - name: Portuguese Dances
     details: Course
     links:
@@ -20503,22 +20506,6 @@ events:
       - Naragonia Duo
     price: €8-€10
     organisation: Academie Lebbeke
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://folkbalbende.be/event/2729"
-    start: "2025-06-13T19:00:00+02:00"
-    end: "2025-06-13T23:30:00+02:00"
-    country: Belgium
-    city: Herk-de-Stad
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Folkensemble Van De Genkse Academie
-      - Naragonia Quartet
-    organisation: ~
   - name: Folkbal RSL
     details: Ball
     links:
@@ -20681,7 +20668,7 @@ events:
     start_date: 2025-05-10
     end_date: 2025-05-10
     country: Belgium
-    city: Torhout
+    city: Deinze
     styles:
       - balfolk
     workshop: false
@@ -20813,6 +20800,23 @@ events:
     bands:
       - Ba1
     organisation: ~
+  - name: "Folkbal 'Kempense Zwier'"
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2755"
+      - "https://www.facebook.com/events/3140052869483970"
+    start: "2025-05-01T18:30:00+02:00"
+    end: "2025-05-01T22:30:00+02:00"
+    country: Belgium
+    city: Olmen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Fyndus
+    price: €10-€12
+    organisation: ~
   - name: Bal
     details: Ball
     links:
@@ -20830,3 +20834,754 @@ events:
       - Dragon Flowers
     price: €15-€18
     organisation: ~
+  - name: Groot Bal Antwerpen
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2758"
+      - "https://www.facebook.com/events/1845286526222851/"
+    start: "2025-10-18T15:00:00+02:00"
+    end: "2025-10-18T22:30:00+02:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: BalAFolk
+  - name: Weekbal Antwerpen
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2759"
+      - "https://www.facebook.com/events/681371704264138/"
+    start: "2025-12-17T19:00:00+01:00"
+    end: "2025-12-17T23:00:00+01:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: BalAFolk
+  - name: Groot Bal Antwerpen
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2760"
+      - "https://www.facebook.com/events/1471834534190503/"
+    start: "2026-02-07T15:00:00+01:00"
+    end: "2026-02-07T23:00:00+01:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: BalAFolk
+  - name: Groot Bal Antwerpen
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2761"
+      - "https://www.facebook.com/events/648374848193137/"
+    start: "2026-03-21T15:00:00+01:00"
+    end: "2026-03-21T23:00:00+01:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: BalAFolk
+  - name: Weekbal Antwerpen
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2762"
+      - "https://www.facebook.com/events/982257914067087/"
+    start: "2026-06-03T19:00:00+02:00"
+    end: "2026-06-03T23:00:00+02:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: BalAFolk
+  - name: Gratis Folkdansanimatie (B)all In One
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/free-folk-dance-animation-ball-in-one/1210/"
+      - "https://folkbalbende.be/event/2767"
+      - "https://www.facebook.com/events/688539323712829"
+      - "https://www.tgrom.be/event-details/erfgoeddag-game-on"
+    start: "2025-04-27T13:00:00+02:00"
+    end: "2025-04-27T18:00:00+02:00"
+    country: Belgium
+    city: Sint-Katelijne-Waver
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+  - name: Bal Van Morgen
+    details: Ball
+    links:
+      - "https://stanistil.be/event/50"
+      - "https://folkbalbende.be/event/2768"
+      - "https://www.facebook.com/events/1476999570115728/"
+    start: "2025-05-28T19:00:00+02:00"
+    end: "2025-05-28T22:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Driftwood
+      - Duo Mobilette
+    price: donation
+    organisation: Stanistil
+  - name: Bal Van Morgen
+    details: Ball
+    links:
+      - "https://stanistil.be/event/49"
+      - "https://folkbalbende.be/event/2769"
+      - "https://www.facebook.com/events/1031038468526610"
+    start: "2025-04-30T19:00:00+02:00"
+    end: "2025-04-30T22:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Pepijn De Pauw
+    price: donation
+    organisation: Stanistil
+  - name: Kettingbal
+    details: Ball
+    links:
+      - "https://tsmiske.be/programma/kettingbal-met-sons-of-sirius-2-2"
+      - "https://www.facebook.com/events/1759357234640408"
+      - "https://folkbalbende.be/event/2773"
+    start: "2025-04-27T15:00:00+02:00"
+    end: "2025-04-27T17:00:00+02:00"
+    country: Belgium
+    city: Asse
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Sons Of Sirius
+    price: €10
+    organisation: "'t Smiske"
+  - name: Soirée
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pasdlayau.be/"
+      - "https://folkbalbende.be/event/2775"
+    start: "2025-05-05T20:00:00+02:00"
+    end: "2025-05-05T22:00:00+02:00"
+    country: Belgium
+    city: Quevaucamps
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €5
+    organisation: "Pas d'La Yau"
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pasdlayau.be/"
+      - "https://folkbalbende.be/event/2776"
+    start_date: 2025-05-17
+    end_date: 2025-05-17
+    country: Belgium
+    city: Quevaucamps
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Galyme
+    organisation: "Pas d'La Yau"
+  - name: Queimada
+    details: Ball
+    links:
+      - "https://muziekpublique.be/concerts/20250524-queimada-ea-shillelagh/?lang=en"
+      - "https://frissefolk.be/en/event-en/queimada/1216/"
+      - "https://folkbalbende.be/event/2778"
+      - "https://www.facebook.com/events/1216259376008246"
+    start: "2025-05-24T19:00:00+02:00"
+    end: "2025-05-25T00:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - A Contrabanda
+      - Eä
+      - Shillelagh
+    price: €11-€19
+    organisation: Frisse Folk Vzw/asbl
+  - name: Mazurka Variations
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/mazurka-variations/1219/"
+      - "https://folkbalbende.be/event/2779"
+      - "https://www.facebook.com/events/656370357279431"
+    start: "2025-06-14T14:00:00+02:00"
+    end: "2025-06-14T18:00:00+02:00"
+    country: Belgium
+    city: Bouwel
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €30
+    organisation: Frisse Folk Vzw/asbl
+  - name: Kettingbal
+    details: Ball
+    links:
+      - "https://tsmiske.be/programma/kettingbal-ragaeri"
+      - "https://folkbalbende.be/event/2780"
+      - "https://www.facebook.com/events/3593730910924253"
+    start: "2025-05-25T15:00:00+02:00"
+    end: "2025-05-25T17:30:00+02:00"
+    country: Belgium
+    city: Asse
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Ragaerí
+    price: €8
+    organisation: "'t Smiske"
+  - name: Poelbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/1404654357617804/"
+      - "https://folkbalbende.be/event/2782"
+    start: "2025-05-07T19:30:00+02:00"
+    end: "2025-05-07T22:30:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Poelbalorkest
+    price: free
+    organisation: Poelband
+  - name: Boeuf Folk
+    details: Ball
+    links:
+      - "https://www.facebook.com/events/2170080150056414/2170080166723079"
+      - "https://folkbalbende.be/event/2783"
+    start: "2025-05-04T19:00:00+02:00"
+    end: "2025-05-04T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €2
+    organisation: Les Boeufs Folk Bruxellois
+  - name: Quatre Quart
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://contretempsetmarees.wixsite.com/contretempsetmarees/journal-de-bord"
+      - "https://folkbalbende.be/event/2784"
+    start: "2025-05-18T15:00:00+02:00"
+    end: "2025-05-18T19:00:00+02:00"
+    country: Belgium
+    city: Wavre
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Contretemps et Marées
+    organisation: ~
+  - name: Bal Folk
+    details: Ball
+    links:
+      - "https://lacompagniedelhydre.yapsody.com/event/index/837487/bal-folk"
+      - "https://folkbalbende.be/event/2785"
+    start: "2025-05-23T18:30:00+02:00"
+    end: "2025-05-23T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Eä
+    price: €13-€16
+    organisation: ~
+  - name: Festival Maintenant
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.festivalmaintenant.be/"
+      - "https://folkbalbende.be/event/2786"
+    start: "2025-05-24T18:00:00+02:00"
+    end: "2025-05-24T22:00:00+02:00"
+    country: Belgium
+    city: Louvain-la-Neuve
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - "J'en Rafolk"
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://eledanse.be/event/bal-gabriel-lenoir-2024/?fbclid=IwZXh0bgNhZW0CMTAAAR2OrnR6mggtd33z8uo_L-hLM_xM724lq7ojW7GoQKP_aq3PfDS9nh0Xfnk_aem_powHozBLUtO8Fmx9N3SFKQ"
+      - "https://folkbalbende.be/event/2787"
+    start: "2025-05-25T19:00:00+02:00"
+    end: "2025-05-25T22:00:00+02:00"
+    country: Belgium
+    city: Rixensart
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Gabriel Lenoir
+    price: €15
+    organisation: EléDanse ASBL
+  - name: Jam
+    details: Ball
+    links:
+      - "https://www.facebook.com/events/2170080150056414/2170080156723080"
+      - "https://folkbalbende.be/event/2788"
+    start: "2025-06-01T19:00:00+02:00"
+    end: "2025-06-01T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €2
+    organisation: Les Boeufs Folk Bruxellois
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2025/06/08/limbrant"
+      - "https://folkbalbende.be/event/2789"
+      - "https://www.facebook.com/events/9183521388369563/"
+    start: "2025-06-08T16:00:00+02:00"
+    end: "2025-06-08T21:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Limbrant
+    price: free
+    organisation: "Muziekclub 't Ey"
+  - name: Celtival
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.archeosite.be/celtival-daubechies/"
+      - "https://folkbalbende.be/event/2790"
+      - "https://folkbalbende.be/event/2791"
+    start: "2025-06-28T16:15:00+02:00"
+    end: "2025-06-29T20:30:00+02:00"
+    country: Belgium
+    city: Aubechies
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Balbelutte
+      - Alkatrad
+      - Glen Road
+      - Les Pestelleux
+      - The Mushrooms
+      - Duo Macke-Bornauw
+    price: €28-€35
+    organisation: ~
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2792"
+    start: "2025-05-28T19:45:00+02:00"
+    end: "2025-05-28T22:00:00+02:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Leerlingen En Leerkrachten Kunstacademiee Gooik
+    organisation: "Muziekclub 't Ey"
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2025/05/11/duo-mackiehendrix-pantonim"
+      - "https://www.facebook.com/events/1327429261928437/"
+      - "https://folkbalbende.be/event/2793"
+      - "https://folkbalbende.be/event/2794"
+    start: "2025-05-11T16:00:00+02:00"
+    end: "2025-05-11T20:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Mackie-Hendrix
+      - Pantonim
+    price: €15-€18
+    organisation: "Muziekclub 't Ey"
+  - name: Aarschots Folk & Bluegrass Festival
+    details: Ball
+    links:
+      - "https://www.hetgasthuis.be/voorstelling/4261/rootstown-cc-het-gasthuis"
+      - "https://folkbalbende.be/event/2799"
+      - "https://www.facebook.com/events/1664083141152163"
+    start: "2025-06-20T13:30:00+02:00"
+    end: "2025-06-21T00:30:00+02:00"
+    country: Belgium
+    city: Aarschot
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Sagas
+      - Hamareel
+      - Snaarmaarwaar
+    price: €10
+    organisation: Rootstown
+  - name: Balhalla Potluckbal
+    details: Ball
+    links:
+      - "https://www.balhalla.be/en/event/potluck-bal-met-jaro-de-roose-and-rokkende-vrouwen"
+      - "https://folkbalbende.be/event/2800"
+      - "https://www.facebook.com/events/1280908116487768/"
+    start: "2025-05-18T14:30:00+02:00"
+    end: "2025-05-18T22:30:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Jaro De Roose
+      - Rokkende Vrouwen
+    price: €10-€19
+    organisation: Balhalla
+  - name: Teyrrasfolk
+    details: Ball
+    links:
+      - "https://tey.be/programma/2025/07/10/shillelagh"
+      - "https://folkbalbende.be/event/2801"
+    start: "2025-07-10T19:30:00+02:00"
+    end: "2025-07-10T23:00:00+02:00"
+    country: Belgium
+    city: Sint-Niklaas
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Shillelagh
+    price: free
+    organisation: "Muziekclub 't Ey"
+  - name: Teyrrasfolk
+    details: Ball
+    links:
+      - "https://tey.be/programma/2025/07/31/cecilia-mda-trio"
+      - "https://folkbalbende.be/event/2805"
+    start: "2025-07-31T19:30:00+02:00"
+    end: "2025-07-31T23:00:00+02:00"
+    country: Belgium
+    city: Sint-Niklaas
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Cecilia
+      - MD&A Trio
+    price: free
+    organisation: "Muziekclub 't Ey"
+  - name: Teyrrasfolk
+    details: Ball
+    links:
+      - "https://tey.be/programma/2025/08/07/laouen"
+      - "https://folkbalbende.be/event/2807"
+    start: "2025-08-07T18:00:00+02:00"
+    end: "2025-08-07T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Laouen
+    price: free
+    organisation: "Muziekclub 't Ey"
+  - name: Teyrrasfolk Baleynbalt
+    details: Ball
+    links:
+      - "https://tey.be/programma/2025/08/14/bansk-baleynbalt"
+      - "https://folkbalbende.be/event/2809"
+    start: "2025-08-14T18:00:00+02:00"
+    end: "2025-08-14T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bansk
+    price: free
+    organisation: "Muziekclub 't Ey"
+  - name: Teyrrasfolk
+    details: Ball
+    links:
+      - "https://tey.be/programma/2025/08/21/the-silly-endings"
+      - "https://folkbalbende.be/event/2811"
+    start: "2025-08-21T18:00:00+02:00"
+    end: "2025-08-21T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - The Silly Endings
+    price: free
+    organisation: "Muziekclub 't Ey"
+  - name: Teyrrasfolk
+    details: Ball
+    links:
+      - "https://tey.be/programma/2025/08/28/mandolinman"
+      - "https://folkbalbende.be/event/2813"
+    start: "2025-08-28T18:00:00+02:00"
+    end: "2025-08-28T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: free
+    organisation: "Muziekclub 't Ey"
+  - name: Bal Mechelen
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2818"
+    start: "2025-12-13T20:00:00+01:00"
+    end: "2025-12-13T21:30:00+01:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frisse Folk Vzw-asbl
+  - name: Dance Class Level 6
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-6/1191/"
+      - "https://folkbalbende.be/event/2819"
+      - "https://www.facebook.com/events/829426182685590/829426276018914/"
+    start: "2025-04-22T18:00:00+02:00"
+    end: "2025-04-22T19:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+  - name: Bal Van Morgen
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2820"
+      - "https://www.facebook.com/events/4211245605814754"
+    start: "2025-06-25T19:00:00+02:00"
+    end: "2025-06-25T22:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hilde & Yas
+    price: donation
+    organisation: Stanistil
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/2821"
+    start: "2025-08-07T20:00:00+02:00"
+    end: "2025-08-07T23:00:00+02:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Mizu Mizi
+    organisation: ~
+  - name: Prieelbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2822"
+      - "https://www.facebook.com/events/1213940053122241/"
+    start: "2025-06-04T18:00:00+02:00"
+    end: "2025-06-04T21:30:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: ~
+  - name: Gratis Folkdansinitiatie & Mini-bal
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/free-folk-dance-initiation-&-bal-with-viorel/1229/"
+      - "https://folkbalbende.be/event/2823"
+      - "https://www.facebook.com/events/1010408057738988"
+    start: "2025-06-15T14:00:00+02:00"
+    end: "2025-06-15T15:15:00+02:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Viorel
+    organisation: Frisse Folk Vzw/asbl
+  - name: Bal Tropical
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/bal-tropical/1230/"
+      - "https://folkbalbende.be/event/2824"
+      - "https://www.facebook.com/events/711797024765380/"
+    start: "2025-06-24T19:00:00+02:00"
+    end: "2025-06-24T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "L'évidence Des Nuages"
+      - Ensemble Folk De Muziekpublique
+      - Emily & The Simons
+    price: €10-€19
+    organisation: Frisse Folk Vzw/asbl
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2829"
+      - "https://www.facebook.com/events/2137670780019125/"
+    start: "2025-06-13T19:00:00+02:00"
+    end: "2025-06-13T23:30:00+02:00"
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Academies Van Genk En Tienen
+      - Naragonia Quartet
+    price: €12-€18
+    organisation: Folk In Limburg
+  - name: Folkbal Academie Bornem
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2831"
+    start: "2026-05-08T19:00:00+02:00"
+    end: "2026-05-08T22:30:00+02:00"
+    country: Belgium
+    city: Bornem
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Academie Bornem
+      - Naragonia
+    organisation: ~
+  - name: Folk On Stage
+    details: Ball
+    links:
+      - "https://stagegooik.be/folkonstage/"
+      - "https://folkbalbende.be/event/2832"
+      - "https://folkbalbende.be/event/2833"
+      - "https://folkbalbende.be/event/2834"
+      - "https://folkbalbende.be/event/2836"
+      - "https://folkbalbende.be/event/2839"
+    start: "2025-08-19T22:00:00+02:00"
+    end: "2025-08-24T00:30:00+02:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Entre Deux
+      - The Silly Endings
+      - Duo Gambetta-Sanczuk
+    organisation: Muziekmozaïek
+  - name: Folkbal
+    details: "Our annual end-of-season folk ball gets a double energy boost!\r\n\r\nTHREO (20:30) brings powerful, contemporary balfolk rooted in European dance traditions — blending bold melodies, rich harmonies, and driving rhythms. Nominated for the 2025 Flanders Folk Awards (Horizon category).\r\n\r\nAérokorda (22:00) delivers neofolk with Celtic, Slavic & classical influences — a richly textured sound shaped by award-winning compositions and international flair."
+    links:
+      - "https://www.muziekcentrumdranouter.be/en/node/1638"
+      - "https://folkbalbende.be/event/2838"
+      - "https://www.plug.events/event/folkbal-threo-aerokorda"
+    start: "2025-12-06T20:30:00+01:00"
+    end: "2025-12-06T23:30:00+01:00"
+    country: Belgium
+    city: Heuvelland
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Threo
+      - Aérokorda
+    price: €16-€18
+    organisation: Muziekcentrum Dranouter

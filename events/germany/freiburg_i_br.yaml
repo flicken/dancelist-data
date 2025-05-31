@@ -169,7 +169,8 @@ events:
     social: true
     price: donation
     organisation: Siebenschritt e.V.
-  - name: "Monday Dancing: uncertain"
+  - name: "Monday Dancing: Dancing for all"
+    details: "Hallo in die Runde, \ngestern haben wir final beschlossen, am kommenden Ostermontag, dem 21.4. zu tanzen.\nSagt das gerne weiter und bringt Freunde und Verwandte mit!\n– Jürgen und Jens (und noch 2? die mir entfallen sind…Sorry!) Werden spielen. 🙂 Danke im Voraus! \nDa aber kein Workshop geplant ist, sind sicher noch mehr Musiker:innen willkommen!\nBringt eure Instrumente mit und sprecht euch mit den oben Genannten ab! \n!Das Musiziertreffen ab 19 Uhr fällt aber aus!\nDer Saal ist ab 20 Uhr offen.\n-Dafür (fürs Öffnen) danke Julia und/oder Barbara!  \neuch+uns+allen eine schöne Woche, erholsame F<EIER>tage () und einen frohen Eiertanz am Montag 😀 \nKarin"
     links:
       - "https://7schritt.de/kalender/monstagstanzen-anfaenger-5/"
     start: "2025-04-21T20:00:00+02:00"
@@ -178,7 +179,7 @@ events:
     city: Freiburg i. Br
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
     price: donation
     organisation: Siebenschritt e.V.
@@ -325,7 +326,7 @@ events:
     price: donation
     organisation: Siebenschritt e.V.
   - name: Dance on the Kanonenplatz
-    details: "am Montag dem 1.7. wollen wir auf dem Kanonenplatz tanzen!Beginn ist idealerweise 19:30 Uhr, auf jeden Fall aber ab dem Eintreffen (und Loslegen) der ersten Musikis.Es ist offene Bühne: Wer spielen will, arrangiert sich und spielt.\n\n\n\nDie passende Straßenbahnhaltestelle ist Oberlinden.Bringt unbedingt eine gut gefüllte Trinkflasche mit!Und Schuhe, die kleine, spitze Steinchen und Staub vertragen.Und Instrumente, wenn ihr spielen wollt!"
+    details: "am Montag dem 7.7. wollen wir auf dem Kanonenplatz tanzen!Beginn ist idealerweise 19:30 Uhr, auf jeden Fall aber ab dem Eintreffen (und Loslegen) der ersten Musikis.Es ist offene Bühne: Wer spielen will, arrangiert sich und spielt.\n\n\n\nDie passende Straßenbahnhaltestelle ist Oberlinden.Bringt unbedingt eine gut gefüllte Trinkflasche mit!Und Schuhe, die kleine, spitze Steinchen und Staub vertragen.Und Instrumente, wenn ihr spielen wollt!"
     links:
       - "https://7schritt.de/kalender/kanonenplatz/"
     start: "2025-07-07T19:30:00+02:00"
